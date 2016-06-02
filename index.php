@@ -23,7 +23,7 @@
 			<div class="navbar-inner">
 				<div class="container">
 					<a class="brand" href="index.php">NodeJS_PHP</a>
-					
+ 					
 				</div>
 			</div>
 		</div>
