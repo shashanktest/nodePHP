@@ -3,6 +3,7 @@
 	$pdo = Database::getInstance()->getPdoObject();
 ?>
 
+
 <!DOCTYPE html>
 <html>
 	<head>
